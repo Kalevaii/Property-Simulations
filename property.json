@@ -1,0 +1,39 @@
+{
+    "property": {
+        "2": {
+            "name": "Modern Apartment",
+            "location": "San Francisco",
+            "price": 600000,
+            "type": "Apartment",
+            "size": 1200
+        },
+        "3": {
+            "name": "Cozy Cottage",
+            "location": "Los Angeles",
+            "price": 350000,
+            "type": "House",
+            "size": 1800
+        },
+        "4": {
+            "name": "Beachfront Property",
+            "location": "Miami",
+            "price": 800000,
+            "type": "House",
+            "size": 4000
+        },
+        "5": {
+            "name": "City Center Flat",
+            "location": "Chicago",
+            "price": 450000,
+            "type": "Apartment",
+            "size": 1000
+        },
+        "6": {
+            "name": "Leah avenue",
+            "location": "San Marcos",
+            "price": 560000.0,
+            "size": 2000,
+            "type": "Apartment"
+        }
+    }
+}
