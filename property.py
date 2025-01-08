@@ -40,6 +40,15 @@ def recommend_property(properties, min_price, max_price):
     return recommendations
 
 # Admin menu for managing properties
+# Verify the admin password
+def check_pw():
+    password = input("Enter admin password: ")
+    if password == ADMIN_PASSWORD:
+        print("Access granted.")
+        return True
+    else:
+        print("Access denied. Incorrect password.")
+        return False
 def admin_menu():
     while True:
         print("\nAdmin Menu:")
